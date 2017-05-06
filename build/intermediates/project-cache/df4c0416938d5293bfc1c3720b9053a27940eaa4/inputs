@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=/Users/macbook/AndroidStudioProjects/Castelo-Cbox/app/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar
+FILE_HASH=9d0be2f96096b7533ec36926b372b3d73ffd5052
+DX_VERSION=1.13
+JUMBO_MODE=true
+OPTIMIZE=true

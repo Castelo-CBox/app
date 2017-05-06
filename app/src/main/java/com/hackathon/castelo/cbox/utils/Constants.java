@@ -11,6 +11,6 @@ public class Constants {
     public static final String STATUSCONNECTION = "STATUS_CONNECTION";
 
     public static final String BASE_URL = "http://cbox.com.br/";
-    public static final String GET_MEMBROS = "getFacebook/";
+    public static final String GETPEOPLE = "getFacebook/";
 
 }

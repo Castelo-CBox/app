@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CBox</string>
+
+    <string name="insira_cpf">Insira o CPF</string>
+    <string name="insira_email">Insira o email</string>
+    <string name="insira_name">Insira o nome</string>
+    <string name="insira_phone">Insira o telefone</string>
+
+    <string name="name">Nome</string>
+    <string name="email">Email</string>
+    <string name="cpf">CPF</string>
+    <string name="phone">Telefone</string>
+
+</resources>

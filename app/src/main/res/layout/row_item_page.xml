@@ -21,7 +21,7 @@
         android:layout_marginTop="5dp"
         android:text="@string/example_page"
         android:textSize="18dp"
-        android:layout_width="150dp"
+        android:layout_width="130dp"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceSmall"
         android:textColor="@android:color/black" />

@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="appintro-4.1.0">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.android/build-cache/11e19ded37b083b0f1c5943228fdcc22c3c32e7c/output/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.android/build-cache/11e19ded37b083b0f1c5943228fdcc22c3c32e7c/output/res" />
+      <root url="file://$USER_HOME$/.android/build-cache/ac64cb60d67be82ff43137d9f61be06342ca8ab2/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/ac64cb60d67be82ff43137d9f61be06342ca8ab2/output/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

@@ -5,53 +5,93 @@
     xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
     android:orientation="vertical"
     android:layout_margin="@dimen/margin_layout"
+    android:layout_gravity="center_horizontal"
+    android:gravity="center_horizontal"
     android:layout_height="match_parent" tools:context="com.hackathon.castelo.cbox.MainActivity">
 
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/name"/>
-
-    <EditText
-        android:id="@+id/et_name"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:hint="@string/insira_name"/>
+    <ImageView
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="@dimen/margin_layout"
+        android:textAlignment="center"
+        android:src="@drawable/cbox"
+        android:layout_width="80dp"
+        android:layout_height="80dp" />
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/cpf"/>
+        android:text="@string/company"/>
 
-    <EditText
-        android:id="@+id/et_cpf"
+    <RelativeLayout
+        android:layout_marginTop="5dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="@string/insira_cpf"/>
+        android:layout_marginRight="3dp"
+        android:background="@drawable/spinner_border"
+        android:orientation="horizontal">
+
+        <Spinner
+            android:id="@+id/spinner_company"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_gravity="center"
+            android:background="@android:color/transparent"
+            android:gravity="center"
+            android:layout_marginLeft="5dp"
+            android:spinnerMode="dropdown" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_gravity="center"
+            android:src="@mipmap/drop" />
+
+    </RelativeLayout>
 
     <TextView
+        android:layout_marginTop="10dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/email"/>
+        android:text="@string/profession"/>
 
-    <EditText
-        android:id="@+id/et_email"
+    <RelativeLayout
+        android:layout_marginTop="5dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="@string/insira_email"/>
+        android:layout_marginRight="3dp"
+        android:background="@drawable/spinner_border"
+        android:orientation="horizontal">
 
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/phone"/>
+        <Spinner
+            android:id="@+id/spinner_profession"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_gravity="center"
+            android:background="@android:color/transparent"
+            android:gravity="center"
+            android:layout_marginLeft="5dp"
+            android:spinnerMode="dropdown" />
 
-    <EditText
-        android:id="@+id/et_phone"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:hint="@string/insira_phone"/>
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_gravity="center"
+            android:src="@mipmap/drop" />
+
+
+    </RelativeLayout>
+
 
     <Button
+        android:layout_margin="@dimen/margin_layout"
+        android:background="@color/colorPrimary"
+        android:textColor="@color/colorText"
         android:id="@+id/btn_search"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

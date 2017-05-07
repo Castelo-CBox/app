@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/macbook/AndroidStudioProjects/Castelo-Cbox/app/app/build/intermediates/transforms/preDex/release/jars/1000/10/retrofit-2.1.0_7f475a1ca1da309374bd9cc3591ec6a4c03568e0.jar.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/macbook/AndroidStudioProjects/Castelo-Cbox/app/app/build/intermediates/transforms/preDex/release/jars/1000/10/okhttp-3.6.0_630c1fdec03a9ea72c5585a69d3e825112d71e1a.jar.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/macbook/AndroidStudioProjects/Castelo-Cbox/app/app/build/intermediates/transforms/preDex/release/jars/1000/10/converter-gson-2.1.0_9fce6657b5ee0aabbc1f3b041396d109c17f5b81.jar.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/.android/build-cache/6593a1477861992ade5eb36636b4bc66988f1956/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/macbook/AndroidStudioProjects/Castelo-Cbox/app/app/build/intermediates/transforms/preDex/release/jars/1000/10/classes_94a06234b12ecf2e6b7a9ea0b25edabb1941f1b0.jar.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/.android/build-cache/c087cc858fde379eef44f47d6babeda61259f9fc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/macbook/AndroidStudioProjects/Castelo-Cbox/app/app/build/intermediates/transforms/preDex/release/jars/1000/10/classes_b8f1edf9c7b64f48c4b6bc089f180749669af777.jar.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/.android/build-cache/0e8dfa75adc83dea20be4295431fe5c14abcf371/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/macbook/AndroidStudioProjects/Castelo-Cbox/app/app/build/intermediates/transforms/preDex/release/jars/1000/10/classes_aa2b81547214cdf5cfc13e772a8104fa5b9c7b73.jar.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/macbook/AndroidStudioProjects/Castelo-Cbox/app/app/build/intermediates/transforms/preDex/release/jars/1000/10/gson-2.7_8c57456d8fd959fcb285b8046e27b6dc3519d7e2.jar.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/.android/build-cache/f9f867e73d4612b36c9bf03eed7d90654b459d79/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/macbook/AndroidStudioProjects/Castelo-Cbox/app/app/build/intermediates/transforms/preDex/release/jars/1000/10/classes_6eee7a88bf2c78edc0ab1cbca8f4c14235d05306.jar.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/.android/build-cache/db8be2284748d8dbce56a49e28ac1c292d182b9e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/macbook/AndroidStudioProjects/Castelo-Cbox/app/app/build/intermediates/transforms/preDex/release/jars/1000/10/classes_c6a390cbfcde3d5cd3e1429e4758ba9890cddae4.jar.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.6.0/81887458b69ddc32722df7e4c35235fd74e6a8ba/logging-interceptor-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="81887458b69ddc32722df7e4c35235fd74e6a8ba">
+        <dex dex="/Users/macbook/AndroidStudioProjects/Castelo-Cbox/app/app/build/intermediates/transforms/preDex/release/jars/1000/10/logging-interceptor-3.6.0_34373081184de2909c01a93464b9f2ee03bcde4c.jar.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/.android/build-cache/7e4422e3fc73045031832fe62798e7562380a828/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/macbook/AndroidStudioProjects/Castelo-Cbox/app/app/build/intermediates/transforms/preDex/release/jars/1000/10/classes_b8513caf1981e9132a88993c04b17cdc01abe427.jar.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/.android/build-cache/68ec33c11da3872967637d2d1c5276fef779152b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/macbook/AndroidStudioProjects/Castelo-Cbox/app/app/build/intermediates/transforms/preDex/release/jars/1000/10/classes_88b99ed5c7c3a86867f8f3d88e36aea8bffc1ec5.jar.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/.android/build-cache/7c3ff3cb0b9e21d5832b261f566b6c33302b04f7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/macbook/AndroidStudioProjects/Castelo-Cbox/app/app/build/intermediates/transforms/preDex/release/jars/1000/10/classes_5f7519b11c7e288710b6158ae3fd32193bfcf7f3.jar.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/.android/build-cache/0a71faed9e4d5b350ba230d00f77ed0bfceae067/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/macbook/AndroidStudioProjects/Castelo-Cbox/app/app/build/intermediates/transforms/preDex/release/jars/1000/10/classes_0f52f182a6989f723eba802899912860eb2f4a2d.jar.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/.android/build-cache/11e19ded37b083b0f1c5943228fdcc22c3c32e7c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="461cd433c2723981c7536d60acfcf3d86f3105fb">
+        <dex dex="/Users/macbook/AndroidStudioProjects/Castelo-Cbox/app/app/build/intermediates/transforms/preDex/release/jars/1000/10/classes_cf48ce04b633c88257d4ef69a8c78b8544aa1928.jar.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/.android/build-cache/2200c0f82847337c0254ad3323307115ce588fa8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/macbook/AndroidStudioProjects/Castelo-Cbox/app/app/build/intermediates/transforms/preDex/release/jars/1000/10/classes_041d45a434925bfec01ea07345803d656156f896.jar.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/.android/build-cache/c269fe79363c6027708ce2b8fcef56f1b4723667/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="29af0f4b1d0f855e54d965157ab303ccd0a033d0">
+        <dex dex="/Users/macbook/AndroidStudioProjects/Castelo-Cbox/app/app/build/intermediates/transforms/preDex/release/jars/1000/10/classes_6fb6f565afe1703c463520f22e5651036af37176.jar.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/.android/build-cache/b6f0cd8f76f395e5c2a75fecde19fe7d7dc357e0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/macbook/AndroidStudioProjects/Castelo-Cbox/app/app/build/intermediates/transforms/preDex/release/jars/1000/10/classes_19f395d1b61d5e836fe67b8d03a34b97f8d6209b.jar.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/Users/macbook/AndroidStudioProjects/Castelo-Cbox/app/app/build/intermediates/transforms/preDex/release/jars/1000/10/okio-1.11.0_e065529526524a520abe422f7b2df6d356993365.jar.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/.android/build-cache/978523ee4e77da49b8afc0f2838934b4ee1726f1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/macbook/AndroidStudioProjects/Castelo-Cbox/app/app/build/intermediates/transforms/preDex/release/jars/1000/10/classes_75ba350dc24ac5b08f634cacdc8ba057a08b2882.jar.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/.android/build-cache/6aa250f4a5b8b685f414402c061e05f09a3c0e6a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/macbook/AndroidStudioProjects/Castelo-Cbox/app/app/build/intermediates/transforms/preDex/release/jars/1000/10/classes_a6ea65d8c1791e3908db760a0f6197be6bf1da8a.jar.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/.android/build-cache/f87777ab47facc5f3863f9560699b25ae39d1124/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/macbook/AndroidStudioProjects/Castelo-Cbox/app/app/build/intermediates/transforms/preDex/release/jars/1000/10/classes_1e7d1b74441410f3b8b29d62027fcd6d5f91bdfe.jar.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/macbook/AndroidStudioProjects/Castelo-Cbox/app/app/build/intermediates/transforms/preDex/release/jars/1000/10/support-annotations-25.3.1_9633d83f0b2bd53d6f486b2ef84c6222d21d15ed.jar.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/.android/build-cache/1782a62641645b4462e7fb6350e3ee12849d0950/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/macbook/AndroidStudioProjects/Castelo-Cbox/app/app/build/intermediates/transforms/preDex/release/jars/1000/10/classes_aa6414664eb46dfce4d7135c8f6b10fa6a4ef965.jar.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/.android/build-cache/9d8bc9459dac9e8ccaba644a0779f6884b6cc0bc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="/Users/macbook/AndroidStudioProjects/Castelo-Cbox/app/app/build/intermediates/transforms/preDex/release/jars/1000/10/classes_4cb981018b2b1bad8d6cb90e932b9dfba3ac23e5.jar.jar" />
+    </item>
+
+</items>

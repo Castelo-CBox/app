@@ -12,5 +12,4 @@ public class Constants {
 
     public static final String BASE_URL = "http://cbox.com.br/";
     public static final String GETPEOPLE = "getFacebook/";
-
 }

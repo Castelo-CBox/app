@@ -1,14 +1,18 @@
 <resources>
     <string name="app_name">CBox</string>
 
-    <string name="insira_cpf">Insira o CPF</string>
-    <string name="insira_email">Insira o email</string>
-    <string name="insira_name">Insira o nome</string>
-    <string name="insira_phone">Insira o telefone</string>
 
-    <string name="name">Nome</string>
-    <string name="email">Email</string>
-    <string name="cpf">CPF</string>
-    <string name="phone">Telefone</string>
+    <string name="company">Empresa</string>
+    <string name="profession">Profissao</string>
+    <string name="search">Buscar</string>
+    <string name="example_company">Empresa XPTO</string>
+    <string name="page">Paginas</string>
+    <string name="example_page">Pagina1</string>
+    <string name="example_qtde">50</string>
+    <string name="example_age">18-25</string>
+    <string name="message">Mensagem</string>
+    <string name="qtde">Quantidade: 50</string>
+    <string name="env">Enviar</string>
+
 
 </resources>

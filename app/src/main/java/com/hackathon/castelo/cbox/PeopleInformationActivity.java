@@ -4,11 +4,15 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.MenuItem;
+import android.widget.ListView;
 
+import com.hackathon.castelo.cbox.adapter.PageCustomAdapter;
+import com.hackathon.castelo.cbox.model.Page;
 import com.hackathon.castelo.cbox.model.People;
 import com.hackathon.castelo.cbox.webservice.APIClient;
 import com.hackathon.castelo.cbox.webservice.APIInterface;
 
+import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
@@ -19,9 +23,10 @@ import retrofit2.Response;
 
 public class PeopleInformationActivity extends AppCompatActivity {
 
+    public ArrayList<Page> pageList;
+    ListView listViewPage;
+    PageCustomAdapter pageCustomAdapter;
 
-    Call<People> call;
-    APIInterface apiService;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -29,23 +34,20 @@ public class PeopleInformationActivity extends AppCompatActivity {
 
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
-        apiService = APIClient.getService().create(APIInterface.class);
-        call = apiService.getPeopleByID("45084552802");
+        listViewPage = (ListView) findViewById(R.id.listPages);
+        pageList = new ArrayList<Page>();
 
-        call.enqueue(new Callback<People>() {
-            @Override
-            public void onResponse(Call<People> call, Response<People> response) {
-                if (response.raw().code() == 200) {
+        pageList.add(new Page("www.w.com.br", R.drawable.user_f, "Pagina1", "50", "18-25"));
+        pageList.add(new Page("www.w.com.br", R.drawable.user_f, "Pagina1", "50", "18-25"));
+        pageList.add(new Page("www.w.com.br", R.drawable.user_f, "Pagina1", "50", "18-25"));
+        pageList.add(new Page("www.w.com.br", R.drawable.user_f, "Pagina1", "50", "18-25"));
 
-                    Log.e("INFOIDPEOPLE", "" + response.body().getName());
-                }
-            }
+        Collections.reverse(pageList);
 
-            @Override
-            public void onFailure(Call<People> call, Throwable t) {
-                Log.e("INFOIDPEOPLE", t.toString());
-            }
-        });
+        ArrayList l = new ArrayList();
+
+        pageCustomAdapter = new PageCustomAdapter(pageList, this);
+        listViewPage.setAdapter(pageCustomAdapter);
 
     }
 

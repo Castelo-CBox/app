@@ -37,10 +37,18 @@ public class PeopleInformationActivity extends AppCompatActivity {
         listViewPage = (ListView) findViewById(R.id.listPages);
         pageList = new ArrayList<Page>();
 
-        pageList.add(new Page("www.w.com.br", R.drawable.user_f, "Pagina1", "50", "18-25"));
-        pageList.add(new Page("www.w.com.br", R.drawable.user_f, "Pagina1", "50", "18-25"));
-        pageList.add(new Page("www.w.com.br", R.drawable.user_f, "Pagina1", "50", "18-25"));
-        pageList.add(new Page("www.w.com.br", R.drawable.user_f, "Pagina1", "50", "18-25"));
+        pageList.add(new Page("www.w.com.br", R.drawable.user_m, "Esporte Espetacular", "20", "18-25"));
+        pageList.add(new Page("www.w.com.br", R.drawable.user_f, "Esporte Espetacular", "12", "18-25"));
+
+        pageList.add(new Page("www.w.com.br", R.drawable.user_m, "Corinthians", "10", "18-25"));
+        pageList.add(new Page("www.w.com.br", R.drawable.user_f, "Corinthians", "8", "18-25"));
+
+        pageList.add(new Page("www.w.com.br", R.drawable.user_m, "Churrasco e Futebol", "8", "18-25"));
+        pageList.add(new Page("www.w.com.br", R.drawable.user_f, "Churrasco e Futebol", "5", "18-25"));
+
+        pageList.add(new Page("www.w.com.br", R.drawable.user_m, "Java", "3", "18-25"));
+        pageList.add(new Page("www.w.com.br", R.drawable.user_f, "Java", "1", "18-25"));
+
 
         Collections.reverse(pageList);
 

@@ -10,8 +10,8 @@
         android:layout_weight="1"
         android:id="@+id/img_sex"
         android:layout_gravity="center_vertical"
-        android:layout_width="40dp"
-        android:layout_height="40dp"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
         android:src="@drawable/user_f"/>
 
     <TextView
@@ -20,7 +20,7 @@
         android:layout_marginLeft="10dp"
         android:layout_marginTop="5dp"
         android:text="@string/example_page"
-        android:textSize="24dp"
+        android:textSize="18dp"
         android:layout_width="150dp"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceSmall"
@@ -31,7 +31,7 @@
         android:layout_marginLeft="10dp"
         android:layout_width="50dp"
         android:layout_height="wrap_content"
-        android:textSize="20dp"
+        android:textSize="16dp"
         android:text="@string/example_qtde"
         android:layout_marginTop="5dp"
         android:textColor="@android:color/darker_gray"
@@ -42,7 +42,7 @@
         android:layout_marginLeft="10dp"
         android:layout_width="100dp"
         android:layout_height="wrap_content"
-        android:textSize="20dp"
+        android:textSize="16dp"
         android:text="@string/example_age"
         android:layout_marginTop="5dp"
         android:textColor="@android:color/darker_gray"

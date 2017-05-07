@@ -93,7 +93,7 @@ public class PageCustomAdapter extends ArrayAdapter<Page> implements View.OnClic
         viewHolder.tv_page.setText("" + page.getName());
         viewHolder.tv_qtde.setText("" + page.getQtde());
         viewHolder.tv_age.setText("" + page.getAge());
-        viewHolder.img_sex.setImageResource(R.drawable.user_m);
+        viewHolder.img_sex.setImageResource(page.getSex_user());
 
         viewHolder.ll_linha.setOnClickListener(new View.OnClickListener() {
             @Override
